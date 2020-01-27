@@ -1,7 +1,7 @@
 # icspa-public-data
 game/data/ for icspa
 
-
+backup: https://gitee.com/wlicsnju/icspa-public-data
 
 # Download the data
 
